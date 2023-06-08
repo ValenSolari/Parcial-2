@@ -1,0 +1,48 @@
+{
+  "sanos" : [ {
+    "nombre" : "Paciente uno ",
+    "apellido" : "Gonzales",
+    "edad" : 24,
+    "barrio" : "La boca",
+    "dni" : "44859999",
+    "ocupacion" : "desocupado",
+    "kits" : 126
+  }, {
+    "nombre" : "Paciente dos ",
+    "apellido" : "Gonzales",
+    "edad" : 25,
+    "barrio" : "Palermo",
+    "dni" : "03545842",
+    "ocupacion" : "desocupado",
+    "kits" : 289
+  }, {
+    "nombre" : "Paciente tres ",
+    "apellido" : "Gonzales",
+    "edad" : 26,
+    "barrio" : "Apache",
+    "dni" : "78945623",
+    "ocupacion" : "desocupado",
+    "kits" : 218
+  }, {
+    "nombre" : "Paciente cuatro ",
+    "apellido" : "Gonzales",
+    "edad" : 27,
+    "barrio" : "CABA",
+    "dni" : "12345698",
+    "ocupacion" : "desocupado",
+    "kits" : 294
+  } ],
+  "aislar" : [ {
+    "kit" : 131,
+    "dni" : "44859000",
+    "temperatura" : 38
+  }, {
+    "kit" : 127,
+    "dni" : "324523565",
+    "temperatura" : 38
+  }, {
+    "kit" : 150,
+    "dni" : "7894355422",
+    "temperatura" : 38
+  } ]
+}
